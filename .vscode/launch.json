@@ -14,5 +14,5 @@
                 "pipeArgs": [],
                 "debuggerPath": "enter the path for the debugger on the target machine, for example ~/vsdbg/vsdbg"
             }
-        }
+        },
     
