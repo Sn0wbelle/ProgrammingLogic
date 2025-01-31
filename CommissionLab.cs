@@ -4,17 +4,17 @@ class CommissionLab
 {
     static void Main()
     {
-        // Get input from user
+      
         Console.Write("Enter name of salesperson: ");
         string name = Console.ReadLine();
 
         Console.Write("Enter sales amount: ");
         double salesAmount = Convert.ToDouble(Console.ReadLine());
 
-        // Calculate commission
+     
         double commission = 200 + (0.09 * salesAmount);
 
-        // Determine performance status
+       
         string performanceStatus;
         if (salesAmount >= 15000)
             performanceStatus = "Outstanding";
@@ -27,7 +27,7 @@ class CommissionLab
         else
             performanceStatus = "Poor";
 
-        // Display results
+   
         Console.WriteLine("\nName of Sales Person: " + name);
         Console.WriteLine("Total Sales Amount: $" + salesAmount);
         Console.WriteLine("Commission: $" + commission);
