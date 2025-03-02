@@ -11,7 +11,6 @@ class CommissionLab
         Console.Write("Enter sales amount: ");
         double salesAmount;
         
-        // Ensure valid input for sales amount
         while (!double.TryParse(Console.ReadLine(), out salesAmount) || salesAmount < 0)
         {
             Console.Write("Invalid input. Please enter a valid sales amount: ");
