@@ -1,8 +1,10 @@
-Microsoft Visual Studio Solution File, Format Version 12.00
+﻿Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.2.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProgrammingLogic", "ProgrammingLogic.csproj", "{1799150E-8F0E-54C7-81AB-39AD6876B8AB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Parking Calculator", "Parking Calculator\Parking Calculator.csproj", "{ACC15B91-0484-4F97-B034-D53D55BE3765}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -14,6 +16,10 @@ Global
 		{1799150E-8F0E-54C7-81AB-39AD6876B8AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1799150E-8F0E-54C7-81AB-39AD6876B8AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1799150E-8F0E-54C7-81AB-39AD6876B8AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ACC15B91-0484-4F97-B034-D53D55BE3765}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACC15B91-0484-4F97-B034-D53D55BE3765}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACC15B91-0484-4F97-B034-D53D55BE3765}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACC15B91-0484-4F97-B034-D53D55BE3765}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

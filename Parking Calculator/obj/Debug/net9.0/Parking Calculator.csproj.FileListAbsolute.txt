@@ -1,0 +1,15 @@
+C:\Users\snowf\OneDrive\Desktop\ProgrammingLogic\Parking Calculator\bin\Debug\net9.0\Parking Calculator.exe
+C:\Users\snowf\OneDrive\Desktop\ProgrammingLogic\Parking Calculator\bin\Debug\net9.0\Parking Calculator.deps.json
+C:\Users\snowf\OneDrive\Desktop\ProgrammingLogic\Parking Calculator\bin\Debug\net9.0\Parking Calculator.runtimeconfig.json
+C:\Users\snowf\OneDrive\Desktop\ProgrammingLogic\Parking Calculator\bin\Debug\net9.0\Parking Calculator.dll
+C:\Users\snowf\OneDrive\Desktop\ProgrammingLogic\Parking Calculator\bin\Debug\net9.0\Parking Calculator.pdb
+C:\Users\snowf\OneDrive\Desktop\ProgrammingLogic\Parking Calculator\obj\Debug\net9.0\Parking Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\snowf\OneDrive\Desktop\ProgrammingLogic\Parking Calculator\obj\Debug\net9.0\Parking Calculator.AssemblyInfoInputs.cache
+C:\Users\snowf\OneDrive\Desktop\ProgrammingLogic\Parking Calculator\obj\Debug\net9.0\Parking Calculator.AssemblyInfo.cs
+C:\Users\snowf\OneDrive\Desktop\ProgrammingLogic\Parking Calculator\obj\Debug\net9.0\Parking Calculator.csproj.CoreCompileInputs.cache
+C:\Users\snowf\OneDrive\Desktop\ProgrammingLogic\Parking Calculator\obj\Debug\net9.0\Parking Calculator.sourcelink.json
+C:\Users\snowf\OneDrive\Desktop\ProgrammingLogic\Parking Calculator\obj\Debug\net9.0\Parking Calculator.dll
+C:\Users\snowf\OneDrive\Desktop\ProgrammingLogic\Parking Calculator\obj\Debug\net9.0\refint\Parking Calculator.dll
+C:\Users\snowf\OneDrive\Desktop\ProgrammingLogic\Parking Calculator\obj\Debug\net9.0\Parking Calculator.pdb
+C:\Users\snowf\OneDrive\Desktop\ProgrammingLogic\Parking Calculator\obj\Debug\net9.0\Parking Calculator.genruntimeconfig.cache
+C:\Users\snowf\OneDrive\Desktop\ProgrammingLogic\Parking Calculator\obj\Debug\net9.0\ref\Parking Calculator.dll
