@@ -1,4 +1,4 @@
-using System;
+﻿using System;
 
 class CommissionLab
 {
@@ -9,7 +9,13 @@ class CommissionLab
         string name = Console.ReadLine();
 
         Console.Write("Enter sales amount: ");
-        double salesAmount = Convert.ToDouble(Console.ReadLine());
+        double salesAmount;
+        
+        // Ensure valid input for sales amount
+        while (!double.TryParse(Console.ReadLine(), out salesAmount) || salesAmount < 0)
+        {
+            Console.Write("Invalid input. Please enter a valid sales amount: ");
+        }
 
         // Calculate commission
         double commission = 200 + (0.09 * salesAmount);
@@ -28,10 +34,10 @@ class CommissionLab
             performanceStatus = "Poor";
 
         // Display results
-        Console.WriteLine("\nName of Sales Person: " + name);
-        Console.WriteLine("Total Sales Amount: $" + salesAmount);
-        Console.WriteLine("Commission: $" + commission);
-        Console.WriteLine("Performance Status: " + performanceStatus);
+        Console.WriteLine("\n--- Commission Report ---");
+        Console.WriteLine($"Name of Sales Person: {name}");
+        Console.WriteLine($"Total Sales Amount: ${salesAmount}");
+        Console.WriteLine($"Commission: ${commission}");
+        Console.WriteLine($"Performance Status: {performanceStatus}");
     }
 }
-

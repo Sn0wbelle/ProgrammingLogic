@@ -1,0 +1,5 @@
+c:\Users\snowf\OneDrive\Desktop\ProgrammingLogic\obj\Debug\net9.0\ProgrammingLogic.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\snowf\OneDrive\Desktop\ProgrammingLogic\obj\Debug\net9.0\ProgrammingLogic.AssemblyInfoInputs.cache
+c:\Users\snowf\OneDrive\Desktop\ProgrammingLogic\obj\Debug\net9.0\ProgrammingLogic.AssemblyInfo.cs
+c:\Users\snowf\OneDrive\Desktop\ProgrammingLogic\obj\Debug\net9.0\ProgrammingLogic.csproj.CoreCompileInputs.cache
+c:\Users\snowf\OneDrive\Desktop\ProgrammingLogic\obj\Debug\net9.0\ProgrammingLogic.sourcelink.json
