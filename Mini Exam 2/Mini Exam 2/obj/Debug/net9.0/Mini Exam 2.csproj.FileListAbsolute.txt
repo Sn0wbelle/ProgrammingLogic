@@ -1,0 +1,15 @@
+C:\Users\snowf\OneDrive\Desktop\ProgrammingLogic\Mini Exam 2\Mini Exam 2\obj\Debug\net9.0\Mini Exam 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\snowf\OneDrive\Desktop\ProgrammingLogic\Mini Exam 2\Mini Exam 2\obj\Debug\net9.0\Mini Exam 2.AssemblyInfoInputs.cache
+C:\Users\snowf\OneDrive\Desktop\ProgrammingLogic\Mini Exam 2\Mini Exam 2\obj\Debug\net9.0\Mini Exam 2.AssemblyInfo.cs
+C:\Users\snowf\OneDrive\Desktop\ProgrammingLogic\Mini Exam 2\Mini Exam 2\obj\Debug\net9.0\Mini Exam 2.csproj.CoreCompileInputs.cache
+C:\Users\snowf\OneDrive\Desktop\ProgrammingLogic\Mini Exam 2\Mini Exam 2\obj\Debug\net9.0\Mini Exam 2.sourcelink.json
+C:\Users\snowf\OneDrive\Desktop\ProgrammingLogic\Mini Exam 2\Mini Exam 2\bin\Debug\net9.0\Mini Exam 2.exe
+C:\Users\snowf\OneDrive\Desktop\ProgrammingLogic\Mini Exam 2\Mini Exam 2\bin\Debug\net9.0\Mini Exam 2.deps.json
+C:\Users\snowf\OneDrive\Desktop\ProgrammingLogic\Mini Exam 2\Mini Exam 2\bin\Debug\net9.0\Mini Exam 2.runtimeconfig.json
+C:\Users\snowf\OneDrive\Desktop\ProgrammingLogic\Mini Exam 2\Mini Exam 2\bin\Debug\net9.0\Mini Exam 2.dll
+C:\Users\snowf\OneDrive\Desktop\ProgrammingLogic\Mini Exam 2\Mini Exam 2\bin\Debug\net9.0\Mini Exam 2.pdb
+C:\Users\snowf\OneDrive\Desktop\ProgrammingLogic\Mini Exam 2\Mini Exam 2\obj\Debug\net9.0\Mini Exam 2.dll
+C:\Users\snowf\OneDrive\Desktop\ProgrammingLogic\Mini Exam 2\Mini Exam 2\obj\Debug\net9.0\refint\Mini Exam 2.dll
+C:\Users\snowf\OneDrive\Desktop\ProgrammingLogic\Mini Exam 2\Mini Exam 2\obj\Debug\net9.0\Mini Exam 2.pdb
+C:\Users\snowf\OneDrive\Desktop\ProgrammingLogic\Mini Exam 2\Mini Exam 2\obj\Debug\net9.0\Mini Exam 2.genruntimeconfig.cache
+C:\Users\snowf\OneDrive\Desktop\ProgrammingLogic\Mini Exam 2\Mini Exam 2\obj\Debug\net9.0\ref\Mini Exam 2.dll
